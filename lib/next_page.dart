@@ -24,7 +24,7 @@ class NextPage extends StatelessWidget{
           children: <Widget>[
             Container(
 
-              color: Colors.purple,
+              color: Colors.blue,
               alignment: Alignment.center,
               height: 100,
 
